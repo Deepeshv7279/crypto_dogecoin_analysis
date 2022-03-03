@@ -1,0 +1,1 @@
+SELECT MIN(size) FROM `bigquery-public-data.crypto_dogecoin.blocks` 
